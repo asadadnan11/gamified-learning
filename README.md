@@ -265,4 +265,4 @@ This project demonstrates business analytics capabilities developed during my MS
 - **GitHub:** [@asadadnan11](https://github.com/asadadnan11)
 - **LinkedIn:** [Asad Adnan](https://linkedin.com/in/asadadnan11)
 
-**Project Status:** MSBA Capstone Project | Business Analytics Portfolio | Ready for Industry Application
+**Project Status:** Business Analytics Portfolio | Ready for Industry Application
